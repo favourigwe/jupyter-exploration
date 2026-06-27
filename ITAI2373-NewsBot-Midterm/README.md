@@ -99,7 +99,7 @@ These visualizations provide insights into the dataset, model performance, and o
 ### **Chinonyelum (Favour) Igwe**
 
 * Reorganized the notebook into a logical Module 1–8 structure.
-* Refined and completed sections of the programming pipeline where improvements were needed.
+* Refined and completed sections of the programming pipeline
 * Added missing code and explanatory markdown throughout the notebook.
 * Created and integrated data visualizations for each major analysis stage.
 * Interpreted visualization results and provided business intelligence analyses.
